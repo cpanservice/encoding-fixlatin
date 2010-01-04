@@ -10,5 +10,6 @@ auto_install;
 
 install_script 'fix_latin';
 
+repository 'http://github.com/grantm/encoding-fixlatin';
 WriteAll;
 
